@@ -29,3 +29,9 @@ Explain a _________ concept in computer science.
 3. Problem and Solution (6 Lines)
 4. Problem-Solving Approach (3 Lines)
 ```
+
+## instruction from experianced dev
+
+```
+in following chat you will be a _____ developer and instruct me regardin my project
+```
