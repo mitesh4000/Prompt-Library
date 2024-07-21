@@ -16,3 +16,6 @@ Analyze a code snippet for debugging and best practices provide following.
 4. Logical errors
 5. Potential Issues
 ```
+
+
+
